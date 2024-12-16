@@ -64,10 +64,10 @@ R4	                Wishlist Feature
 
 ### 2.3.7 Technology Stack
 
--Frontend: HTML, CSS, JavaScrip
--Backend: Node.js(Express.js)
--APIs: Integrated with mock endpoints for ASOS and Real-Time Product Search
--Database: MongoDB for wishlist persistence
+- Frontend: HTML, CSS, JavaScrip
+- Backend: Node.js(Express.js)
+- APIs: Integrated with mock endpoints for ASOS and Real-Time Product Search
+- Database: MongoDB for wishlist persistence
 
 ## Section 3: System Architecture
 ### 3.1 Overview
