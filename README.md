@@ -79,7 +79,7 @@ The system architecture consists of a backend API built using Node.js and a fron
 - Sequence Diagram: Describes the interactions between the user, backend API, and external e-commerce APIs.
 - Data Flow Diagram (DFD): Represents the flow of data between components.
 
-
+![System Architecture Diagram](diagram.png)
   +------------------+       +------------------+       +---------------------+
 |     Frontend     | <---> |    Backend API   | <---> |   External APIs     |
 |  (Web/Mobile UI) |       |   (REST/GraphQL) |       | (Payment, Shipping, |
