@@ -80,12 +80,7 @@ The system architecture consists of a backend API built using Node.js and a fron
 - Data Flow Diagram (DFD): Represents the flow of data between components.
 
 
-_______
-|     |
-|     |
-|     |
-|     |
-_______
+
   +------------------+       +------------------+       +---------------------+
 |     Frontend     | <---> |    Backend API   | <---> |   External APIs     |
 |  (Web/Mobile UI) |       |   (REST/GraphQL) |       | (Payment, Shipping, |
