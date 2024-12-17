@@ -80,6 +80,15 @@ The system architecture consists of a backend API built using Node.js and a fron
 - Data Flow Diagram (DFD): Represents the flow of data between components.
 
 
+#Create a formatter to display the red/green and arrow up/down indicators.
+improvement_formatter <- formatter("span", 
+                                   style = x ~ style(font.weight = "bold", 
+                                                     color = ifelse(x > 0, customGreen, ifelse(x < 0, customRed, "black"))), 
+                                   x ~ icontext(ifelse(x>0, "arrow-up", "arrow-down"), x)
+                                   )
+
+# Display the table using the formattable package and the custom formatter, "improvement_formatter" from above. 
+
 formattable(i1, align =c("l","c","c","c","c", "c", "c", "c", "r"), list(
   `Indicator Name` = formatter("span", style = ~ style(color = "grey",font.weight = "bold")), 
   `2011`= color_tile(customGreen, customGreen0),
