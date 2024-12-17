@@ -19,7 +19,7 @@ The E-commerce Product Comparison Tool is a web-based application designed to he
 - Aggregated user reviews from different platforms.
 - Price alerts and wishlist features.
 
-### Excluded Features:
+### Excluded Features: 
 
 - User Registration/Login.
 - Direct product purchasing.
