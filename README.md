@@ -121,6 +121,8 @@ The system architecture consists of a backend API built using Node.js and a fron
 
 ![image](https://github.com/ArdalanMaroof/EcommerceComparisonTool/blob/04e763c198eee21f1f75d118844a1a409c7de640/Compare-ASOS.PNG)
 
+![image](https://github.com/ArdalanMaroof/EcommerceComparisonTool/blob/4f10251621f49be22e80a9155c45ac85906601fa/Real-TimeProduct.PNG)
+
 ### 3. Wishlist Page (wishlist.html)
 
 - Lists all products added to the wishlist.
