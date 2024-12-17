@@ -99,14 +99,7 @@ The system architecture consists of a backend API built using Node.js and a fron
 
 ## Section 4: Data Dictionary
 
-Table         	Field	        Notes	                        Type
-Products	     ProductID	   Unique product identifier	    DECIMAL
-               Name	         Product name	VARCHAR
-               Price        	Price of the product	DECIMAL
-              Rating	       Average product rating	FLOAT
-              Reviews	       Reviews from various platforms	TEXT
-              
-              
+      
             
 ## Section 5: Data Design
   
