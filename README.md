@@ -56,11 +56,7 @@ The E-commerce Product Comparison Tool is a web-based application designed to he
 
 ### 2.3.6 Traceability Matrix
 
-SRS Requirement    	SDD Module
-R1	                Product Search API 
-R2	                Product Filter API 
-R3	                Product Comparison Interface 
-R4	                Wishlist Feature 
+![image](https://github.com/ArdalanMaroof/EcommerceComparisonTool/blob/ab0e4da8e95c7355c820b02405b4bd15e48d7e1a/TraceabilityMatrix.PNG)
 
 ### 2.3.7 Technology Stack
 
