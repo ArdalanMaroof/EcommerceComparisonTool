@@ -79,6 +79,7 @@ The system architecture consists of a backend API built using Node.js and a fron
 - Sequence Diagram: Describes the interactions between the user, backend API, and external e-commerce APIs.
 - Data Flow Diagram (DFD): Represents the flow of data between components.
 
+
  ![image_alt](https://github.com/ArdalanMaroof/EcommerceComparisonTool/blob/f064fe14fd0851741e710ac43c4b83275621b9f4/Component-Diagram.PNG)
  
  ![image_alt](https://github.com/ArdalanMaroof/EcommerceComparisonTool/blob/704e721ce4374678cd1fc142a8fa82d422402dad/Sequence-Diagram.PNG)
