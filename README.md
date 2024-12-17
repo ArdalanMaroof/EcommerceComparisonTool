@@ -99,7 +99,7 @@ The system architecture consists of a backend API built using Node.js and a fron
 
 ## Section 4: Data Dictionary
 
-      
+   ![image_alt](https://github.com/ArdalanMaroof/EcommerceComparisonTool/blob/c34dd065d546c7d2fa714a0e30067151e068d65f/Data-Dictionary.PNG)   
             
 ## Section 5: Data Design
   
